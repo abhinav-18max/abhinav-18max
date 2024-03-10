@@ -15,7 +15,7 @@ Hey there, I'm Abhinav Unnikrishnan <img src="https://media.giphy.com/media/hvRJ
 -   📚 **Full Stack developer** with experience doing projects in React_ Nextjs_ with backend in _Nestjs, Node.js and Golang_
 -   🧹 Striving to write clean code that explains itself without the need for comments
 -   📧 Ping me at abhinav200218@gmail.com
--   📄 Here's my [Resume](https://drive.google.com/file/d/1FLCX1wnyMNzvDKYqLQGj3tqYQhDNEtvv/view?usp=sharing)
+-   📄 Here's my [Resume](https://drive.google.com/file/d/1TeAE1PVna5ZzwIe4Nier6xBtzt8sKizj/view?usp=sharing)
 
 ---
 
