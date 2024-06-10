@@ -11,7 +11,7 @@ Hey there, I'm Abhinav Unnikrishnan <img src="https://media.giphy.com/media/hvRJ
 
 </p>
 
--   ⚙️ Currently diving into **GoLang** 
+-   ⚙️ Currently diving into **Product Development** 
 -   📚 **Full Stack developer** with experience doing projects in React_ Nextjs_ with backend in _Nestjs, Node.js and Golang_
 -   🧹 Striving to write clean code that explains itself without the need for comments
 -   📧 Ping me at abhinav200218@gmail.com
